@@ -1,0 +1,253 @@
+request_id,request_date,cash_balance,inventory_value,response
+1,2025-04-01,45059.7,4940.299999999999,"Item: Colored paper
+Requested quantity: 200
+Stock available on 2025-04-01: 788
+
+Quote:
+- Unit price: $0.10
+- Total: $20.00
+- Rationale: standard pricing (no bulk discount threshold reached).
+- Note: Pricing is aligned with similar past jobs."
+2,2025-04-03,44934.7,4940.299999999999,"Item: Poster paper
+Requested quantity: 500
+Stock available on 2025-04-03: 0
+Reorder placed: 20 (ETA: 2025-04-07)
+
+Quote:
+- Unit price: $0.25
+- Subtotal: $125.00
+- Bulk discount: 5%
+- Total: $118.75
+- Rationale: bulk discount applied to support larger order volume.
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ⚠️ Not enough stock today. We can reorder and deliver after supplier ETA: 2025-04-07."
+3,2025-04-04,44935.2,4939.799999999999,"Item: A4 paper
+Requested quantity: 10
+Stock available on 2025-04-04: 272
+
+Quote:
+- Unit price: $0.05
+- Total: $0.50
+- Rationale: standard pricing (no bulk discount threshold reached).
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ✅ Order confirmed. Transaction ID: 21."
+4,2025-04-05,45006.45,4864.8,"Item: Cardstock
+Requested quantity: 500
+Stock available on 2025-04-05: 595
+
+Quote:
+- Unit price: $0.15
+- Subtotal: $75.00
+- Bulk discount: 5%
+- Total: $71.25
+- Rationale: bulk discount applied to support larger order volume.
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ✅ Order confirmed. Transaction ID: 22."
+5,2025-04-05,45053.95,4814.8,"Item: Colored paper
+Requested quantity: 500
+Stock available on 2025-04-05: 788
+
+Quote:
+- Unit price: $0.10
+- Subtotal: $50.00
+- Bulk discount: 5%
+- Total: $47.50
+- Rationale: bulk discount applied to support larger order volume.
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ✅ Order confirmed. Transaction ID: 23."
+6,2025-04-06,45018.95,4814.8,"Item: Construction paper
+Requested quantity: 500
+Stock available on 2025-04-06: 0
+Reorder placed: 24 (ETA: 2025-04-10)
+
+Quote:
+- Unit price: $0.07
+- Subtotal: $35.00
+- Bulk discount: 5%
+- Total: $33.25
+- Rationale: bulk discount applied to support larger order volume.
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ⚠️ Not enough stock today. We can reorder and deliver after supplier ETA: 2025-04-10."
+7,2025-04-07,44958.2,4875.55,"Item: Cardstock
+Requested quantity: 500
+Stock available on 2025-04-07: 95
+Reorder placed: 25 (ETA: 2025-04-11)
+
+Quote:
+- Unit price: $0.15
+- Subtotal: $75.00
+- Bulk discount: 5%
+- Total: $71.25
+- Rationale: bulk discount applied to support larger order volume.
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ⚠️ Not enough stock today. We can reorder and deliver after supplier ETA: 2025-04-11."
+8,2025-04-07,44918.2,4875.55,"Item: Recycled paper
+Requested quantity: 500
+Stock available on 2025-04-07: 0
+Reorder placed: 26 (ETA: 2025-04-11)
+
+Quote:
+- Unit price: $0.08
+- Subtotal: $40.00
+- Bulk discount: 5%
+- Total: $38.00
+- Rationale: bulk discount applied to support larger order volume.
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ⚠️ Not enough stock today. We can reorder and deliver after supplier ETA: 2025-04-11."
+9,2025-04-07,44958.2,4835.55,"Item: Glossy paper
+Requested quantity: 200
+Stock available on 2025-04-07: 587
+
+Quote:
+- Unit price: $0.20
+- Total: $40.00
+- Rationale: standard pricing (no bulk discount threshold reached).
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ✅ Order confirmed. Transaction ID: 27."
+13,2025-04-08,45029.45,4760.55,"Item: Cardstock
+Requested quantity: 500
+Stock available on 2025-04-08: 500
+
+Quote:
+- Unit price: $0.15
+- Subtotal: $75.00
+- Bulk discount: 5%
+- Total: $71.25
+- Rationale: bulk discount applied to support larger order volume.
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ✅ Order confirmed. Transaction ID: 28."
+12,2025-04-08,45025.45,4760.55,"Item: Paper napkins
+Requested quantity: 200
+Stock available on 2025-04-08: 0
+Reorder placed: 29 (ETA: 2025-04-12)
+
+Quote:
+- Unit price: $0.02
+- Total: $4.00
+- Rationale: standard pricing (no bulk discount threshold reached).
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ⚠️ Not enough stock today. We can reorder and deliver after supplier ETA: 2025-04-12."
+10,2025-04-08,44985.45,4800.55,"Item: Glossy paper
+Requested quantity: 500
+Stock available on 2025-04-08: 387
+Reorder placed: 30 (ETA: 2025-04-12)
+
+Quote:
+- Unit price: $0.20
+- Subtotal: $100.00
+- Bulk discount: 5%
+- Total: $95.00
+- Rationale: bulk discount applied to support larger order volume.
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ⚠️ Not enough stock today. We can reorder and deliver after supplier ETA: 2025-04-12."
+11,2025-04-08,45080.45,4700.55,"Item: Glossy paper
+Requested quantity: 500
+Stock available on 2025-04-08: 587
+
+Quote:
+- Unit price: $0.20
+- Subtotal: $100.00
+- Bulk discount: 5%
+- Total: $95.00
+- Rationale: bulk discount applied to support larger order volume.
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ✅ Order confirmed. Transaction ID: 31."
+14,2025-04-09,45081.7,4700.55,"Item: Poster paper
+Requested quantity: 5
+Stock available on 2025-04-09: 500
+
+Quote:
+- Unit price: $0.25
+- Total: $1.25
+- Rationale: standard pricing (no bulk discount threshold reached).
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ✅ Order confirmed. Transaction ID: 32."
+15,2025-04-12,45082.7,4699.55,"Item: Colored paper
+Requested quantity: 10
+Stock available on 2025-04-12: 288
+
+Quote:
+- Unit price: $0.10
+- Total: $1.00
+- Rationale: standard pricing (no bulk discount threshold reached).
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ✅ Order confirmed. Transaction ID: 33."
+16,2025-04-13,45115.95,4699.55,"Item: Construction paper
+Requested quantity: 500
+Stock available on 2025-04-13: 500
+
+Quote:
+- Unit price: $0.07
+- Subtotal: $35.00
+- Bulk discount: 5%
+- Total: $33.25
+- Rationale: bulk discount applied to support larger order volume.
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ✅ Order confirmed. Transaction ID: 34."
+17,2025-04-14,45043.75,4771.75,"Item: Colored paper
+Requested quantity: 1000
+Stock available on 2025-04-14: 278
+Reorder placed: 35 (ETA: 2025-04-18)
+
+Quote:
+- Unit price: $0.10
+- Subtotal: $100.00
+- Bulk discount: 5%
+- Total: $95.00
+- Rationale: bulk discount applied to support larger order volume.
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ⚠️ Not enough stock today. We can reorder and deliver after supplier ETA: 2025-04-18."
+18,2025-04-14,45091.25,4721.75,"Item: Colored paper
+Requested quantity: 500
+Stock available on 2025-04-14: 1000
+
+Quote:
+- Unit price: $0.10
+- Subtotal: $50.00
+- Bulk discount: 5%
+- Total: $47.50
+- Rationale: bulk discount applied to support larger order volume.
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ✅ Order confirmed. Transaction ID: 36."
+19,2025-04-15,44708.65,5104.349999999999,"Item: Glossy paper
+Requested quantity: 2000
+Stock available on 2025-04-15: 87
+Reorder placed: 37 (ETA: 2025-04-22)
+
+Quote:
+- Unit price: $0.20
+- Subtotal: $400.00
+- Bulk discount: 8%
+- Total: $368.00
+- Rationale: bulk discount applied to support larger order volume.
+- Note: Pricing is aligned with similar past jobs.
+
+Order status: ⚠️ Not enough stock today. We can reorder and deliver after supplier ETA: 2025-04-22."
+20,2025-04-17,44678.65,5104.349999999999,"Item: Flyers
+Requested quantity: 5
+Stock available on 2025-04-17: 0
+Reorder placed: 38 (ETA: 2025-04-21)
+
+Quote:
+- Unit price: $0.15
+- Total: $0.75
+- Rationale: standard pricing (no bulk discount threshold reached).
+
+Order status: ⚠️ Not enough stock today. We can reorder and deliver after supplier ETA: 2025-04-21."
